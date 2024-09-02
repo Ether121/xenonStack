@@ -1,5 +1,5 @@
 # xenonStack
-just for my task internship for company placements
+for my task internship for company placements
 
 i used some help from stack overflow for various commands usage.
 
